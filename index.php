@@ -1,3 +1,15 @@
+<meta name="google-site-verification=pWatsMNCbuA6w8ziNuq3c6wCJz3ugTq-BdwTKcorJEk" />
+
+
+<meta name="google-adsense-account" content="ca-pub-9850650985058210"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9850650985058210"
+     crossorigin="anonymous"></script>
+
+
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+
+<meta name="google-adsense-account" content="ca-pub-9850650985058210"><meta name="google-site-verification=pWatsMNCbuA6w8ziNuq3c6wCJz3ugTq-BdwTKcorJEk" />
 <?php
 
 define('PROXY_START', microtime(true));
@@ -133,5 +145,9 @@ try {
 
     }
 }
+    
+<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-9850650985058210">
+</amp-auto-ads>
 
 ?>
